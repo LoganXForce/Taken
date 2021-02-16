@@ -427,13 +427,42 @@ html {
 *:after {
 	box-sizing: inherit;
 }
+/*Home style*/
 
+
+#Añade{
+	text-align: right;
+	margin-top: 150px;
+	font-size: 48px;
+	margin-right: 150px;
+}
+#verde{
+	background-color: steelblue;
+					 width: 90px;
+					 height: 750px;
+					 position: absolute;
+}
+#bannerimg1{
+	position: relative;
+	padding-left: 50px;
+	margin-bottom: auto;
+}
+#bannerimg2{
+	position: relative;
+	padding-left: 50px;
+	margin-bottom: auto;
+
+}
+
+
+/*home end*/
 hr {
 	background-color: #ccc;
 	border: 0;
 	height: 1px;
 	margin-bottom: 1.5em;
 }
+
 
 #content ul,
 #content ol {
@@ -2746,6 +2775,8 @@ object {
         opacity:    .0;
 }
 }
+
+
 
 /* .dl-singlewidth for columns and media with limited width */
 /* .dl-halfcolumn and .dl-thirdcolumn for Gravity Forms alignement */
