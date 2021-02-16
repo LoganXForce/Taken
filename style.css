@@ -465,14 +465,26 @@ html {
 #buttonbanner{
 	position: relative;
 	margin-top: 1%;
-	margin-left: 45%;
+	margin-left: 40%;
 }
 
 #buttonbanner{
 	position: relative;
 	margin-top: 1%;
-	margin-left: 45%;
+	margin-left: 40%;
+	margin-bottom: 1%;
 }
+#a {
+	margin: 15px;
+	padding: 20px;
+  transition-duration: 0.4s;
+}
+#a:hover {
+  background-color: #152116; /* Green */
+  color: white;
+}
+
+
 
 /*home end*/
 hr {
