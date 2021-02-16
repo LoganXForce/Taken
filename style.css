@@ -432,28 +432,47 @@ html {
 
 #Añade{
 	text-align: right;
-	margin-top: 150px;
+	margin-top: 80px;
 	font-size: 48px;
-	margin-right: 150px;
+
 }
 #verde{
-	background-color: steelblue;
+	background-color: #152116;
 					 width: 90px;
 					 height: 750px;
 					 position: absolute;
 }
+#banners1{
+
+}
+
 #bannerimg1{
 	position: relative;
 	padding-left: 50px;
 	margin-bottom: auto;
 }
 #bannerimg2{
-	position: relative;
-	padding-left: 50px;
-	margin-bottom: auto;
-
+	position: absolute;
+	padding-left: 65px;
+	margin-bottom: 272px;
+}
+#bannerimg3{
+	position: absolute;
+	padding-left: 65px;
+	margin-top: 272px;
 }
 
+#buttonbanner{
+	position: relative;
+	margin-top: 1%;
+	margin-left: 45%;
+}
+
+#buttonbanner{
+	position: relative;
+	margin-top: 1%;
+	margin-left: 45%;
+}
 
 /*home end*/
 hr {
